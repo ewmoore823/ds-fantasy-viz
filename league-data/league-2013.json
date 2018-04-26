@@ -1,0 +1,1526 @@
+{
+    "league_id": 374681,
+    "teams": [
+        {
+            "losses": 10,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 99,
+                    "points_for": 92,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 113,
+                    "points_for": 76,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 91,
+                    "points_for": 79,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 119,
+                    "points_for": 107,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 64,
+                    "points_for": 86,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 109,
+                    "points_for": 86,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 73,
+                    "points_for": 69,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 53,
+                    "points_for": 100,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 123,
+                    "points_for": 91,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 121,
+                    "points_for": 83,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 88,
+                    "points_for": 73,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 106,
+                    "points_for": 107,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 87,
+                    "points_for": 130,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 96,
+                    "points_for": 89,
+                    "week": 14
+                }
+            ],
+            "owner": "Tyler Thisse",
+            "points_against": 1449,
+            "points_for": 1398,
+            "team_abbrev": "BOWE",
+            "team_id": 1,
+            "team_name": "Throwin Bowe Off My Team",
+            "wins": 5
+        },
+        {
+            "losses": 11,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 101,
+                    "points_for": 119,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 113,
+                    "points_for": 83,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 77,
+                    "points_for": 75,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 107,
+                    "points_for": 119,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 65,
+                    "points_for": 93,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 87,
+                    "points_for": 70,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 117,
+                    "points_for": 93,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 102,
+                    "points_for": 60,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 70,
+                    "points_for": 76,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 78,
+                    "points_for": 54,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 104,
+                    "points_for": 84,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 68,
+                    "points_for": 27,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 130,
+                    "points_for": 87,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 116,
+                    "points_for": 99,
+                    "week": 14
+                }
+            ],
+            "owner": "Robert Simms",
+            "points_against": 1425,
+            "points_for": 1222,
+            "team_abbrev": "STRK",
+            "team_id": 2,
+            "team_name": "Raiders of the Last Stark",
+            "wins": 4
+        },
+        {
+            "losses": 12,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 155,
+                    "points_for": 90,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 76,
+                    "points_for": 113,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 103,
+                    "points_for": 80,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 90,
+                    "points_for": 95,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 93,
+                    "points_for": 65,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 106,
+                    "points_for": 69,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 83,
+                    "points_for": 75,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 104,
+                    "points_for": 71,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 76,
+                    "points_for": 70,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 99,
+                    "points_for": 64,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 73,
+                    "points_for": 88,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 81,
+                    "points_for": 57,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 89,
+                    "points_for": 65,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 119,
+                    "points_for": 101,
+                    "week": 14
+                }
+            ],
+            "owner": "Will Bain",
+            "points_against": 1456,
+            "points_for": 1176,
+            "team_abbrev": "BAIN",
+            "team_id": 3,
+            "team_name": "Team Jacob",
+            "wins": 3
+        },
+        {
+            "losses": 6,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 90,
+                    "points_for": 155,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 73,
+                    "points_for": 115,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 75,
+                    "points_for": 77,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 117,
+                    "points_for": 128,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 86,
+                    "points_for": 64,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 71,
+                    "points_for": 91,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 116,
+                    "points_for": 75,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 87,
+                    "points_for": 154,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 91,
+                    "points_for": 123,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 64,
+                    "points_for": 99,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 95,
+                    "points_for": 65,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 27,
+                    "points_for": 68,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 116,
+                    "points_for": 93,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 72,
+                    "points_for": 68,
+                    "week": 14
+                }
+            ],
+            "owner": "Glen Krebs",
+            "points_against": 1299,
+            "points_for": 1451,
+            "team_abbrev": "GKK",
+            "team_id": 4,
+            "team_name": "Miami Sharks",
+            "wins": 9
+        },
+        {
+            "losses": 5,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 119,
+                    "points_for": 101,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 115,
+                    "points_for": 73,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 79,
+                    "points_for": 91,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 95,
+                    "points_for": 90,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 81,
+                    "points_for": 114,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 83,
+                    "points_for": 89,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 67,
+                    "points_for": 91,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 65,
+                    "points_for": 87,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 113,
+                    "points_for": 95,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 54,
+                    "points_for": 78,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 65,
+                    "points_for": 95,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 107,
+                    "points_for": 106,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 65,
+                    "points_for": 89,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 97,
+                    "points_for": 113,
+                    "week": 14
+                }
+            ],
+            "owner": "Tyler Maher",
+            "points_against": 1284,
+            "points_for": 1415,
+            "team_abbrev": "MAR",
+            "team_id": 5,
+            "team_name": "So Breezy",
+            "wins": 10
+        },
+        {
+            "losses": 3,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 92,
+                    "points_for": 99,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 111,
+                    "points_for": 99,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 72,
+                    "points_for": 60,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 95,
+                    "points_for": 126,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 91,
+                    "points_for": 105,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 70,
+                    "points_for": 87,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 75,
+                    "points_for": 83,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 154,
+                    "points_for": 87,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 95,
+                    "points_for": 113,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 73,
+                    "points_for": 88,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 92,
+                    "points_for": 100,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 72,
+                    "points_for": 109,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 83,
+                    "points_for": 85,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 89,
+                    "points_for": 96,
+                    "week": 14
+                }
+            ],
+            "owner": "Matt M",
+            "points_against": 1347,
+            "points_for": 1427,
+            "team_abbrev": "MMH",
+            "team_id": 6,
+            "team_name": "Moon's Muscle Hamsters",
+            "wins": 12
+        },
+        {
+            "losses": 4,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 96,
+                    "points_for": 129,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 83,
+                    "points_for": 113,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 73,
+                    "points_for": 99,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 126,
+                    "points_for": 95,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 80,
+                    "points_for": 102,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 69,
+                    "points_for": 106,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 75,
+                    "points_for": 116,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 87,
+                    "points_for": 65,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 82,
+                    "points_for": 75,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 83,
+                    "points_for": 121,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 60,
+                    "points_for": 123,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 109,
+                    "points_for": 72,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 84,
+                    "points_for": 103,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 99,
+                    "points_for": 116,
+                    "week": 14
+                }
+            ],
+            "owner": "Joshua Seidman",
+            "points_against": 1279,
+            "points_for": 1544,
+            "team_abbrev": "RIDL",
+            "team_id": 7,
+            "team_name": "Riddler's Revenge",
+            "wins": 11
+        },
+        {
+            "losses": 7,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 73,
+                    "points_for": 90,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 99,
+                    "points_for": 111,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 80,
+                    "points_for": 103,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 123,
+                    "points_for": 93,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 102,
+                    "points_for": 80,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 91,
+                    "points_for": 71,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 91,
+                    "points_for": 67,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 100,
+                    "points_for": 53,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 68,
+                    "points_for": 95,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 88,
+                    "points_for": 73,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 84,
+                    "points_for": 104,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 88,
+                    "points_for": 100,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 103,
+                    "points_for": 84,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 101,
+                    "points_for": 119,
+                    "week": 14
+                }
+            ],
+            "owner": "Colin Jam",
+            "points_against": 1367,
+            "points_for": 1362,
+            "team_abbrev": "JAM",
+            "team_id": 8,
+            "team_name": "Team Jam",
+            "wins": 8
+        },
+        {
+            "losses": 10,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 90,
+                    "points_for": 73,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 78,
+                    "points_for": 98,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 99,
+                    "points_for": 73,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 128,
+                    "points_for": 117,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 105,
+                    "points_for": 91,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 89,
+                    "points_for": 83,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 69,
+                    "points_for": 73,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 60,
+                    "points_for": 102,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 95,
+                    "points_for": 68,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Wham bam Thank you Cam "
+                    },
+                    "points_against": 98,
+                    "points_for": 48,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 123,
+                    "points_for": 60,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 57,
+                    "points_for": 81,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 85,
+                    "points_for": 83,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 68,
+                    "points_for": 72,
+                    "week": 14
+                }
+            ],
+            "owner": "Will  Heinz",
+            "points_against": 1347,
+            "points_for": 1201,
+            "team_abbrev": "HEIN",
+            "team_id": 9,
+            "team_name": "Team Heinz",
+            "wins": 5
+        },
+        {
+            "losses": 7,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 129,
+                    "points_for": 96,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 98,
+                    "points_for": 78,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 60,
+                    "points_for": 72,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 93,
+                    "points_for": 123,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 114,
+                    "points_for": 81,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Throwin Bowe Off My Team"
+                    },
+                    "points_against": 86,
+                    "points_for": 109,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 93,
+                    "points_for": 117,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 71,
+                    "points_for": 104,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Riddler's Revenge"
+                    },
+                    "points_against": 75,
+                    "points_for": 82,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 48,
+                    "points_for": 98,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 100,
+                    "points_for": 92,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "Team Jam"
+                    },
+                    "points_against": 100,
+                    "points_for": 88,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 93,
+                    "points_for": 116,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "So Breezy"
+                    },
+                    "points_against": 113,
+                    "points_for": 97,
+                    "week": 14
+                }
+            ],
+            "owner": "Matt Prescott",
+            "points_against": 1403,
+            "points_for": 1460,
+            "team_abbrev": "PRES",
+            "team_id": 10,
+            "team_name": "Wham bam Thank you Cam ",
+            "wins": 8
+        }
+    ],
+    "year": 2013
+}

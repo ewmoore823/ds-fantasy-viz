@@ -1,0 +1,1526 @@
+{
+    "league_id": 374681,
+    "teams": [
+        {
+            "losses": 6,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 100.7,
+                    "points_for": 77.2,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 65.9,
+                    "points_for": 124.2,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 78.1,
+                    "points_for": 188.3,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 88.2,
+                    "points_for": 75.6,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 78.9,
+                    "points_for": 72.4,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 83.6,
+                    "points_for": 73.2,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 125.4,
+                    "points_for": 88.3,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 83.9,
+                    "points_for": 90,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 97.4,
+                    "points_for": 100,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 65.7,
+                    "points_for": 110.2,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 54.4,
+                    "points_for": 87.5,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 88.3,
+                    "points_for": 149.7,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 136.7,
+                    "points_for": 91.6,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 71.6,
+                    "points_for": 150.6,
+                    "week": 14
+                }
+            ],
+            "owner": "Tyler Thisse",
+            "points_against": 1218.8,
+            "points_for": 1478.8,
+            "team_abbrev": "TISS",
+            "team_id": 1,
+            "team_name": "Bloody Carnidge",
+            "wins": 8
+        },
+        {
+            "losses": 9,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 77.1,
+                    "points_for": 121.9,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 76.1,
+                    "points_for": 65.4,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 61,
+                    "points_for": 165.7,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 75.6,
+                    "points_for": 88.2,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 80,
+                    "points_for": 92.1,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 133,
+                    "points_for": 83.8,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 98.3,
+                    "points_for": 67.7,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 89.7,
+                    "points_for": 56.9,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 89.9,
+                    "points_for": 77.6,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 119.1,
+                    "points_for": 67.7,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 99.2,
+                    "points_for": 75.2,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 149.7,
+                    "points_for": 88.3,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 66.3,
+                    "points_for": 125.9,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 91.9,
+                    "points_for": 62.2,
+                    "week": 14
+                }
+            ],
+            "owner": "Robert Simms",
+            "points_against": 1306.9,
+            "points_for": 1238.6,
+            "team_abbrev": "JOIQ",
+            "team_id": 2,
+            "team_name": "The Circle Joiquers",
+            "wins": 5
+        },
+        {
+            "losses": 9,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 79,
+                    "points_for": 109.1,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 124.2,
+                    "points_for": 65.9,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 115.3,
+                    "points_for": 81.6,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 79.3,
+                    "points_for": 64.7,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 92.1,
+                    "points_for": 80,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 100.7,
+                    "points_for": 128.6,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 81.1,
+                    "points_for": 127.5,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 122.8,
+                    "points_for": 71.4,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 100,
+                    "points_for": 125.8,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 110.2,
+                    "points_for": 65.7,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 71.1,
+                    "points_for": 55.9,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 95.9,
+                    "points_for": 117,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 125.9,
+                    "points_for": 66.3,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 131.4,
+                    "points_for": 73.8,
+                    "week": 14
+                }
+            ],
+            "owner": "Will Bain",
+            "points_against": 1429,
+            "points_for": 1233.3,
+            "team_abbrev": "BAIN",
+            "team_id": 3,
+            "team_name": "When I Pee I Philip Rivers",
+            "wins": 5
+        },
+        {
+            "losses": 5,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 77.2,
+                    "points_for": 100.7,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 92,
+                    "points_for": 148,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 80.2,
+                    "points_for": 127.9,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 69.8,
+                    "points_for": 69.7,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 116.1,
+                    "points_for": 110.7,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 98.2,
+                    "points_for": 77.6,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 86,
+                    "points_for": 110.5,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 71.4,
+                    "points_for": 122.8,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 111.9,
+                    "points_for": 123,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 67.7,
+                    "points_for": 119.1,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 78.3,
+                    "points_for": 59.4,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 57.4,
+                    "points_for": 95.3,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 81.8,
+                    "points_for": 130.5,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 150.6,
+                    "points_for": 71.6,
+                    "week": 14
+                }
+            ],
+            "owner": "Glen Krebs",
+            "points_against": 1238.6,
+            "points_for": 1466.8,
+            "team_abbrev": "GRON",
+            "team_id": 4,
+            "team_name": "Gronkey  Punch",
+            "wins": 9
+        },
+        {
+            "losses": 6,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 87.4,
+                    "points_for": 87.5,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 65.4,
+                    "points_for": 76.1,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 84.6,
+                    "points_for": 77.3,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 69.7,
+                    "points_for": 69.8,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 110.2,
+                    "points_for": 67.1,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 73.2,
+                    "points_for": 83.6,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 135.9,
+                    "points_for": 96.8,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 107.7,
+                    "points_for": 94.3,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 105.8,
+                    "points_for": 122.4,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 75.3,
+                    "points_for": 92.6,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 55.9,
+                    "points_for": 71.1,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 96.5,
+                    "points_for": 88.7,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 130.5,
+                    "points_for": 81.8,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 62.2,
+                    "points_for": 91.9,
+                    "week": 14
+                }
+            ],
+            "owner": "Tyler Maher",
+            "points_against": 1260.3,
+            "points_for": 1201,
+            "team_abbrev": "ZZZ",
+            "team_id": 5,
+            "team_name": "Lacy Bums",
+            "wins": 8
+        },
+        {
+            "losses": 6,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 109.1,
+                    "points_for": 79,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 82.4,
+                    "points_for": 83.4,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 165.7,
+                    "points_for": 61,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 88.8,
+                    "points_for": 82.1,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 72.4,
+                    "points_for": 78.9,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 81.5,
+                    "points_for": 102.6,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 110.5,
+                    "points_for": 86,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 94.3,
+                    "points_for": 107.7,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 125.8,
+                    "points_for": 100,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 68.2,
+                    "points_for": 103.8,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 75.2,
+                    "points_for": 99.2,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 122.2,
+                    "points_for": 75.4,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 91.6,
+                    "points_for": 136.7,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 65.2,
+                    "points_for": 109.8,
+                    "week": 14
+                }
+            ],
+            "owner": "Matt M",
+            "points_against": 1352.9,
+            "points_for": 1305.6,
+            "team_abbrev": "MMMM",
+            "team_id": 6,
+            "team_name": "Golden Grahams",
+            "wins": 8
+        },
+        {
+            "losses": 4,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 137.3,
+                    "points_for": 92.1,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 148,
+                    "points_for": 92,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 81.6,
+                    "points_for": 115.3,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 122,
+                    "points_for": 87,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 67.1,
+                    "points_for": 110.2,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 83.8,
+                    "points_for": 133,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 88.3,
+                    "points_for": 125.4,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 109.9,
+                    "points_for": 120.4,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 122.4,
+                    "points_for": 105.8,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 72.6,
+                    "points_for": 79.3,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 59.4,
+                    "points_for": 78.3,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 75.4,
+                    "points_for": 122.2,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 80.6,
+                    "points_for": 95.8,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 73.8,
+                    "points_for": 131.4,
+                    "week": 14
+                }
+            ],
+            "owner": "Joshua Seidman",
+            "points_against": 1322.2,
+            "points_for": 1488.2,
+            "team_abbrev": "GURL",
+            "team_id": 7,
+            "team_name": "Dirty Gurls",
+            "wins": 10
+        },
+        {
+            "losses": 9,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 121.9,
+                    "points_for": 77.1,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 83.4,
+                    "points_for": 82.4,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 188.3,
+                    "points_for": 78.1,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 64.7,
+                    "points_for": 79.3,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 97.3,
+                    "points_for": 90.8,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 77.6,
+                    "points_for": 98.2,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 96.8,
+                    "points_for": 135.9,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 120.4,
+                    "points_for": 109.9,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 77.6,
+                    "points_for": 89.9,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 103.8,
+                    "points_for": 68.2,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 87.5,
+                    "points_for": 54.4,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 117,
+                    "points_for": 95.9,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 90,
+                    "points_for": 72,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 82,
+                    "points_for": 108.8,
+                    "week": 14
+                }
+            ],
+            "owner": "kyle de paula",
+            "points_against": 1408.3,
+            "points_for": 1240.9,
+            "team_abbrev": "MEN",
+            "team_id": 8,
+            "team_name": "The Dez Dispensers",
+            "wins": 5
+        },
+        {
+            "losses": 6,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 92.1,
+                    "points_for": 137.3,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 74.7,
+                    "points_for": 64.2,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 77.3,
+                    "points_for": 84.6,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 82.1,
+                    "points_for": 88.8,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 110.7,
+                    "points_for": 116.1,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 128.6,
+                    "points_for": 100.7,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 67.7,
+                    "points_for": 98.3,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 90,
+                    "points_for": 83.9,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 123,
+                    "points_for": 111.9,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 79.3,
+                    "points_for": 72.6,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Money  Team"
+                    },
+                    "points_against": 75.1,
+                    "points_for": 107.9,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 88.7,
+                    "points_for": 96.5,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 72,
+                    "points_for": 90,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 109.8,
+                    "points_for": 65.2,
+                    "week": 14
+                }
+            ],
+            "owner": "Will  Heinz",
+            "points_against": 1271.1,
+            "points_for": 1318,
+            "team_abbrev": "HEIN",
+            "team_id": 9,
+            "team_name": "Team Heinz",
+            "wins": 8
+        },
+        {
+            "losses": 10,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 87.5,
+                    "points_for": 87.4,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 64.2,
+                    "points_for": 74.7,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 127.9,
+                    "points_for": 80.2,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 87,
+                    "points_for": 122,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 90.8,
+                    "points_for": 97.3,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Golden Grahams"
+                    },
+                    "points_against": 102.6,
+                    "points_for": 81.5,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "When I Pee I Philip Rivers"
+                    },
+                    "points_against": 127.5,
+                    "points_for": 81.1,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "The Circle Joiquers"
+                    },
+                    "points_against": 56.9,
+                    "points_for": 89.7,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Bloody Carnidge"
+                    },
+                    "points_against": 100,
+                    "points_for": 97.4,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Lacy Bums"
+                    },
+                    "points_against": 92.6,
+                    "points_for": 75.3,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 107.9,
+                    "points_for": 75.1,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Gronkey  Punch"
+                    },
+                    "points_against": 95.3,
+                    "points_for": 57.4,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Dirty Gurls"
+                    },
+                    "points_against": 95.8,
+                    "points_for": 80.6,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Dez Dispensers"
+                    },
+                    "points_against": 108.8,
+                    "points_for": 82,
+                    "week": 14
+                }
+            ],
+            "owner": "Matt Prescott",
+            "points_against": 1344.8,
+            "points_for": 1181.7,
+            "team_abbrev": "PRES",
+            "team_id": 10,
+            "team_name": "The Money  Team",
+            "wins": 4
+        }
+    ],
+    "year": 2015
+}

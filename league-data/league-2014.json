@@ -1,0 +1,1526 @@
+{
+    "league_id": 374681,
+    "teams": [
+        {
+            "losses": 5,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 61,
+                    "points_for": 74,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 86,
+                    "points_for": 74,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 67,
+                    "points_for": 78,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 120,
+                    "points_for": 122,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 56,
+                    "points_for": 116,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 113,
+                    "points_for": 106,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 84,
+                    "points_for": 119,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 85,
+                    "points_for": 126,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 73,
+                    "points_for": 59,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 111,
+                    "points_for": 119,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 57,
+                    "points_for": 95,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 100,
+                    "points_for": 78,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 132,
+                    "points_for": 98,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 65,
+                    "points_for": 116,
+                    "week": 14
+                }
+            ],
+            "owner": "Tyler Thisse",
+            "points_against": 1210,
+            "points_for": 1380,
+            "team_abbrev": "TISS",
+            "team_id": 1,
+            "team_name": "The Olsen Canadians",
+            "wins": 9
+        },
+        {
+            "losses": 7,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 117,
+                    "points_for": 86,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 77,
+                    "points_for": 96,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 117,
+                    "points_for": 89,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 122,
+                    "points_for": 120,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 91,
+                    "points_for": 67,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 76,
+                    "points_for": 105,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 69,
+                    "points_for": 101,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 122,
+                    "points_for": 93,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 90,
+                    "points_for": 117,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 123,
+                    "points_for": 82,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 79,
+                    "points_for": 91,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 78,
+                    "points_for": 100,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 97,
+                    "points_for": 77,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 93,
+                    "points_for": 147,
+                    "week": 14
+                }
+            ],
+            "owner": "Robert Simms",
+            "points_against": 1351,
+            "points_for": 1371,
+            "team_abbrev": "STRK",
+            "team_id": 2,
+            "team_name": "Raiders of the Last Stark",
+            "wins": 7
+        },
+        {
+            "losses": 3,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 66,
+                    "points_for": 95,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 74,
+                    "points_for": 86,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 74,
+                    "points_for": 85,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 103,
+                    "points_for": 96,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 67,
+                    "points_for": 91,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 90,
+                    "points_for": 66,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 96,
+                    "points_for": 99,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 73,
+                    "points_for": 109,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 77,
+                    "points_for": 108,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 119,
+                    "points_for": 111,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 81,
+                    "points_for": 84,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 55,
+                    "points_for": 77,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 77,
+                    "points_for": 97,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 88,
+                    "points_for": 115,
+                    "week": 14
+                }
+            ],
+            "owner": "Will Bain",
+            "points_against": 1140,
+            "points_for": 1316,
+            "team_abbrev": "BAIN",
+            "team_id": 3,
+            "team_name": "Team Jacob",
+            "wins": 10
+        },
+        {
+            "losses": 9,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 74,
+                    "points_for": 61,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 121,
+                    "points_for": 106,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 94,
+                    "points_for": 57,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 85,
+                    "points_for": 114,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 92,
+                    "points_for": 122,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 89,
+                    "points_for": 102,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 55,
+                    "points_for": 117,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 109,
+                    "points_for": 73,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 97,
+                    "points_for": 64,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 82,
+                    "points_for": 123,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 107,
+                    "points_for": 78,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 135,
+                    "points_for": 125,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 129,
+                    "points_for": 76,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 116,
+                    "points_for": 65,
+                    "week": 14
+                }
+            ],
+            "owner": "Glen Krebs",
+            "points_against": 1385,
+            "points_for": 1283,
+            "team_abbrev": "GKK",
+            "team_id": 4,
+            "team_name": "Miami Sharks",
+            "wins": 5
+        },
+        {
+            "losses": 7,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 74,
+                    "points_for": 104,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 96,
+                    "points_for": 77,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 96,
+                    "points_for": 70,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 114,
+                    "points_for": 85,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 55,
+                    "points_for": 71,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 106,
+                    "points_for": 113,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 74,
+                    "points_for": 54,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 47,
+                    "points_for": 94,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 95,
+                    "points_for": 57,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 86,
+                    "points_for": 93,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 84,
+                    "points_for": 81,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 110,
+                    "points_for": 96,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 76,
+                    "points_for": 129,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 147,
+                    "points_for": 93,
+                    "week": 14
+                }
+            ],
+            "owner": "Tyler Maher",
+            "points_against": 1240,
+            "points_for": 1217,
+            "team_abbrev": "MAR",
+            "team_id": 5,
+            "team_name": "The Discount  Double Checks",
+            "wins": 6
+        },
+        {
+            "losses": 10,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 95,
+                    "points_for": 66,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 60,
+                    "points_for": 72,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 89,
+                    "points_for": 117,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 101,
+                    "points_for": 81,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 116,
+                    "points_for": 56,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 52,
+                    "points_for": 83,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 117,
+                    "points_for": 55,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 94,
+                    "points_for": 47,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 108,
+                    "points_for": 77,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 63,
+                    "points_for": 48,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 91,
+                    "points_for": 79,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 113,
+                    "points_for": 56,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 98,
+                    "points_for": 132,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 112,
+                    "points_for": 66,
+                    "week": 14
+                }
+            ],
+            "owner": "Matt M",
+            "points_against": 1309,
+            "points_for": 1035,
+            "team_abbrev": "MMH",
+            "team_id": 6,
+            "team_name": "Moon's Muscle Hamsters",
+            "wins": 4
+        },
+        {
+            "losses": 9,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 122,
+                    "points_for": 65,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 106,
+                    "points_for": 121,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 85,
+                    "points_for": 74,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 95,
+                    "points_for": 63,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 71,
+                    "points_for": 55,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 105,
+                    "points_for": 76,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 119,
+                    "points_for": 84,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 143,
+                    "points_for": 120,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 57,
+                    "points_for": 95,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 118,
+                    "points_for": 111,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 78,
+                    "points_for": 107,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 56,
+                    "points_for": 113,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 114,
+                    "points_for": 117,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 115,
+                    "points_for": 88,
+                    "week": 14
+                }
+            ],
+            "owner": "Joshua Seidman",
+            "points_against": 1384,
+            "points_for": 1289,
+            "team_abbrev": "SHDY",
+            "team_id": 7,
+            "team_name": "Shady's Aftermath",
+            "wins": 5
+        },
+        {
+            "losses": 8,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 86,
+                    "points_for": 117,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 72,
+                    "points_for": 60,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 78,
+                    "points_for": 67,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 96,
+                    "points_for": 103,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 95,
+                    "points_for": 87,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 102,
+                    "points_for": 89,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 54,
+                    "points_for": 74,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 120,
+                    "points_for": 143,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 117,
+                    "points_for": 90,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 48,
+                    "points_for": 63,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 95,
+                    "points_for": 57,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 77,
+                    "points_for": 55,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 78,
+                    "points_for": 97,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 119,
+                    "points_for": 106,
+                    "week": 14
+                }
+            ],
+            "owner": "Colin Jam",
+            "points_against": 1237,
+            "points_for": 1188,
+            "team_abbrev": "MEN",
+            "team_id": 8,
+            "team_name": "A Great Group of Men",
+            "wins": 5
+        },
+        {
+            "losses": 5,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 65,
+                    "points_for": 122,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 75,
+                    "points_for": 82,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 70,
+                    "points_for": 96,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 81,
+                    "points_for": 101,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 122,
+                    "points_for": 92,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 66,
+                    "points_for": 90,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 101,
+                    "points_for": 69,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 126,
+                    "points_for": 85,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 64,
+                    "points_for": 97,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 111,
+                    "points_for": 118,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "The Brees Blows me"
+                    },
+                    "points_against": 86,
+                    "points_for": 67,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 96,
+                    "points_for": 110,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 97,
+                    "points_for": 78,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 66,
+                    "points_for": 112,
+                    "week": 14
+                }
+            ],
+            "owner": "Will  Heinz",
+            "points_against": 1226,
+            "points_for": 1319,
+            "team_abbrev": "HEIN",
+            "team_id": 9,
+            "team_name": "Team Heinz",
+            "wins": 9
+        },
+        {
+            "losses": 5,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 104,
+                    "points_for": 74,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 82,
+                    "points_for": 75,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 57,
+                    "points_for": 94,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 63,
+                    "points_for": 95,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 87,
+                    "points_for": 95,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Moon's Muscle Hamsters"
+                    },
+                    "points_against": 83,
+                    "points_for": 52,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Jacob"
+                    },
+                    "points_against": 99,
+                    "points_for": 96,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Raiders of the Last Stark"
+                    },
+                    "points_against": 93,
+                    "points_for": 122,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "The Olsen Canadians"
+                    },
+                    "points_against": 59,
+                    "points_for": 73,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "The Discount  Double Checks"
+                    },
+                    "points_against": 93,
+                    "points_for": 86,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Team Heinz"
+                    },
+                    "points_against": 67,
+                    "points_for": 86,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Miami Sharks"
+                    },
+                    "points_against": 125,
+                    "points_for": 135,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Shady's Aftermath"
+                    },
+                    "points_against": 117,
+                    "points_for": 114,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Colin Jam",
+                        "team_id": 8,
+                        "team_name": "A Great Group of Men"
+                    },
+                    "points_against": 106,
+                    "points_for": 119,
+                    "week": 14
+                }
+            ],
+            "owner": "Matt Prescott",
+            "points_against": 1232,
+            "points_for": 1316,
+            "team_abbrev": "PRES",
+            "team_id": 10,
+            "team_name": "The Brees Blows me",
+            "wins": 8
+        }
+    ],
+    "year": 2014
+}

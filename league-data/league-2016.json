@@ -1,0 +1,1526 @@
+{
+    "league_id": 374681,
+    "teams": [
+        {
+            "losses": 8,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 114,
+                    "points_for": 68.6,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 133.9,
+                    "points_for": 74,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 86.5,
+                    "points_for": 86.8,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 74.9,
+                    "points_for": 105,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 113.3,
+                    "points_for": 92.9,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 80.6,
+                    "points_for": 94.2,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 102.9,
+                    "points_for": 72.5,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 104.7,
+                    "points_for": 52.1,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 73.1,
+                    "points_for": 133.9,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 133.5,
+                    "points_for": 91.8,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 94.2,
+                    "points_for": 82.4,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 79.1,
+                    "points_for": 108.4,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 102.2,
+                    "points_for": 100.3,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 75.1,
+                    "points_for": 87.3,
+                    "week": 14
+                }
+            ],
+            "owner": "Tyler Thisse",
+            "points_against": 1368,
+            "points_for": 1250.2,
+            "team_abbrev": "TISS",
+            "team_id": 1,
+            "team_name": "Russell and Flow",
+            "wins": 6
+        },
+        {
+            "losses": 7,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 67.6,
+                    "points_for": 109.8,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 106.2,
+                    "points_for": 87.2,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 112,
+                    "points_for": 94,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 105,
+                    "points_for": 74.9,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 82.7,
+                    "points_for": 116.5,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 83.4,
+                    "points_for": 114.3,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 81.3,
+                    "points_for": 82.8,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 97,
+                    "points_for": 97.9,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 100.1,
+                    "points_for": 107.8,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 115.7,
+                    "points_for": 83.8,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 70.2,
+                    "points_for": 81.2,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 108.4,
+                    "points_for": 79.1,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 101.2,
+                    "points_for": 51.7,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 117.9,
+                    "points_for": 63,
+                    "week": 14
+                }
+            ],
+            "owner": "Robert Simms",
+            "points_against": 1348.7,
+            "points_for": 1244,
+            "team_abbrev": "POP",
+            "team_id": 2,
+            "team_name": "Pop Lockett Drop It",
+            "wins": 7
+        },
+        {
+            "losses": 10,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 107.9,
+                    "points_for": 98.3,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 74,
+                    "points_for": 133.9,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 126.9,
+                    "points_for": 109.5,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 94.8,
+                    "points_for": 77.6,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 116.5,
+                    "points_for": 82.7,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 92,
+                    "points_for": 96.6,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 88.8,
+                    "points_for": 70.1,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 106.9,
+                    "points_for": 99,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 89.3,
+                    "points_for": 77.6,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 91.8,
+                    "points_for": 133.5,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 91.3,
+                    "points_for": 84.2,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 88.5,
+                    "points_for": 73.8,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 51.7,
+                    "points_for": 101.2,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 87,
+                    "points_for": 67.7,
+                    "week": 14
+                }
+            ],
+            "owner": "Will Bain",
+            "points_against": 1307.4,
+            "points_for": 1305.7,
+            "team_abbrev": "BAIN",
+            "team_id": 3,
+            "team_name": "Air  Jordy",
+            "wins": 4
+        },
+        {
+            "losses": 4,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 68.6,
+                    "points_for": 114,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 73,
+                    "points_for": 100.6,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 51,
+                    "points_for": 101.5,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 100.3,
+                    "points_for": 107.3,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 105.1,
+                    "points_for": 81.3,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 97.7,
+                    "points_for": 85,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 102.6,
+                    "points_for": 137.9,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 99,
+                    "points_for": 106.9,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 100,
+                    "points_for": 175.2,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 83.8,
+                    "points_for": 115.7,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 88.1,
+                    "points_for": 118.1,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 99.2,
+                    "points_for": 88.9,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 90.1,
+                    "points_for": 119.8,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 87.3,
+                    "points_for": 75.1,
+                    "week": 14
+                }
+            ],
+            "owner": "Glen Krebs",
+            "points_against": 1245.8,
+            "points_for": 1527.3,
+            "team_abbrev": "EVAN",
+            "team_id": 4,
+            "team_name": "Stairway to  Evans",
+            "wins": 10
+        },
+        {
+            "losses": 8,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 90.8,
+                    "points_for": 138.1,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 87.2,
+                    "points_for": 106.2,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 101,
+                    "points_for": 52,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 107.3,
+                    "points_for": 100.3,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 114.8,
+                    "points_for": 108.2,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 94.2,
+                    "points_for": 80.6,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 87,
+                    "points_for": 114.7,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 82.3,
+                    "points_for": 104.1,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 104.4,
+                    "points_for": 86.1,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 91.7,
+                    "points_for": 91,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 84.2,
+                    "points_for": 91.3,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 110.3,
+                    "points_for": 97,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 119.8,
+                    "points_for": 90.1,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 63,
+                    "points_for": 117.9,
+                    "week": 14
+                }
+            ],
+            "owner": "Tyler Maher",
+            "points_against": 1338,
+            "points_for": 1377.6,
+            "team_abbrev": "CJAM",
+            "team_id": 5,
+            "team_name": "Peyton on Sunday Mornings",
+            "wins": 6
+        },
+        {
+            "losses": 8,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 98.3,
+                    "points_for": 107.9,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 122,
+                    "points_for": 88.9,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 94,
+                    "points_for": 112,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 128.7,
+                    "points_for": 107.8,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 92.9,
+                    "points_for": 113.3,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 132.1,
+                    "points_for": 80.5,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 137.9,
+                    "points_for": 102.6,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 104.1,
+                    "points_for": 82.3,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 77.6,
+                    "points_for": 89.3,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 94.8,
+                    "points_for": 104.7,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 81.2,
+                    "points_for": 70.2,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 119.9,
+                    "points_for": 99.3,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 100.3,
+                    "points_for": 102.2,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 79.6,
+                    "points_for": 77.6,
+                    "week": 14
+                }
+            ],
+            "owner": "Matt M",
+            "points_against": 1463.4,
+            "points_for": 1338.6,
+            "team_abbrev": "XXX",
+            "team_id": 6,
+            "team_name": "Big Ben's Dirty Johnson",
+            "wins": 6
+        },
+        {
+            "losses": 5,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 96.7,
+                    "points_for": 105.4,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 100.6,
+                    "points_for": 73,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 109.5,
+                    "points_for": 126.9,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 89.3,
+                    "points_for": 108.6,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 108.2,
+                    "points_for": 114.8,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 114.3,
+                    "points_for": 83.4,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 72.5,
+                    "points_for": 102.9,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 130.2,
+                    "points_for": 77.6,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 86.1,
+                    "points_for": 104.4,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 114.8,
+                    "points_for": 82.1,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 118.1,
+                    "points_for": 88.1,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 99.3,
+                    "points_for": 119.9,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 57.8,
+                    "points_for": 152.5,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 67.7,
+                    "points_for": 87,
+                    "week": 14
+                }
+            ],
+            "owner": "Joshua Seidman",
+            "points_against": 1365.1,
+            "points_for": 1426.6,
+            "team_abbrev": "UNI",
+            "team_id": 7,
+            "team_name": "Black Unicorns",
+            "wins": 9
+        },
+        {
+            "losses": 7,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 109.8,
+                    "points_for": 67.6,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 88.9,
+                    "points_for": 122,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 86.8,
+                    "points_for": 86.5,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 77.6,
+                    "points_for": 94.8,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 96.5,
+                    "points_for": 99.9,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 85,
+                    "points_for": 97.7,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 114.7,
+                    "points_for": 87,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 77.6,
+                    "points_for": 130.2,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 107.8,
+                    "points_for": 100.1,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 104.7,
+                    "points_for": 94.8,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 82.4,
+                    "points_for": 94.2,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 73.8,
+                    "points_for": 88.5,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 101.6,
+                    "points_for": 75.4,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 93,
+                    "points_for": 78.7,
+                    "week": 14
+                }
+            ],
+            "owner": "kyle de paula",
+            "points_against": 1300.2,
+            "points_for": 1317.4,
+            "team_abbrev": "MEN",
+            "team_id": 8,
+            "team_name": "The Chronicles  Of Theo Riddick",
+            "wins": 7
+        },
+        {
+            "losses": 5,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 105.4,
+                    "points_for": 96.7,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 97.6,
+                    "points_for": 74.1,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 52,
+                    "points_for": 101,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 107.8,
+                    "points_for": 128.7,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 81.3,
+                    "points_for": 105.1,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 96.6,
+                    "points_for": 92,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 82.8,
+                    "points_for": 81.3,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 52.1,
+                    "points_for": 104.7,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 175.2,
+                    "points_for": 100,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 82.1,
+                    "points_for": 114.8,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "Party like a  Gronk star "
+                    },
+                    "points_against": 98.3,
+                    "points_for": 111.5,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 97,
+                    "points_for": 110.3,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 75.4,
+                    "points_for": 101.6,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 77.6,
+                    "points_for": 79.6,
+                    "week": 14
+                }
+            ],
+            "owner": "Will  Heinz",
+            "points_against": 1281.2,
+            "points_for": 1401.4,
+            "team_abbrev": "HEIN",
+            "team_id": 9,
+            "team_name": "Hey Desean! The Gang's All Here",
+            "wins": 9
+        },
+        {
+            "losses": 8,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 138.1,
+                    "points_for": 90.8,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 74.1,
+                    "points_for": 97.6,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 101.5,
+                    "points_for": 51,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 108.6,
+                    "points_for": 89.3,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 99.9,
+                    "points_for": 96.5,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Big Ben's Dirty Johnson"
+                    },
+                    "points_against": 80.5,
+                    "points_for": 132.1,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Air  Jordy"
+                    },
+                    "points_against": 70.1,
+                    "points_for": 88.8,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pop Lockett Drop It"
+                    },
+                    "points_against": 97.9,
+                    "points_for": 97,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "Russell and Flow"
+                    },
+                    "points_against": 133.9,
+                    "points_for": 73.1,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Peyton on Sunday Mornings"
+                    },
+                    "points_against": 91,
+                    "points_for": 91.7,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Hey Desean! The Gang's All Here"
+                    },
+                    "points_against": 111.5,
+                    "points_for": 98.3,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Stairway to  Evans"
+                    },
+                    "points_against": 88.9,
+                    "points_for": 99.2,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "Black Unicorns"
+                    },
+                    "points_against": 152.5,
+                    "points_for": 57.8,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "kyle de paula",
+                        "team_id": 8,
+                        "team_name": "The Chronicles  Of Theo Riddick"
+                    },
+                    "points_against": 78.7,
+                    "points_for": 93,
+                    "week": 14
+                }
+            ],
+            "owner": "Matt Prescott",
+            "points_against": 1427.2,
+            "points_for": 1256.2,
+            "team_abbrev": "PRES",
+            "team_id": 10,
+            "team_name": "Party like a  Gronk star ",
+            "wins": 6
+        }
+    ],
+    "year": 2016
+}

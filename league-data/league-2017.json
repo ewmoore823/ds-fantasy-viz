@@ -1,0 +1,1526 @@
+{
+    "league_id": 374681,
+    "teams": [
+        {
+            "losses": 10,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 91.4,
+                    "points_for": 76.6,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 90,
+                    "points_for": 59.6,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 103.8,
+                    "points_for": 104.6,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 86.6,
+                    "points_for": 69.8,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 85.3,
+                    "points_for": 69.8,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 88.4,
+                    "points_for": 69.5,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 130.2,
+                    "points_for": 96.9,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 97.1,
+                    "points_for": 88.7,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 96.2,
+                    "points_for": 122.7,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 107.5,
+                    "points_for": 115.7,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 107.9,
+                    "points_for": 105,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 89.4,
+                    "points_for": 132.8,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 116.7,
+                    "points_for": 114.5,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 99.1,
+                    "points_for": 72.7,
+                    "week": 14
+                }
+            ],
+            "owner": "Tyler Thisse",
+            "points_against": 1389.6,
+            "points_for": 1298.9,
+            "team_abbrev": "TISS",
+            "team_id": 1,
+            "team_name": "R. Kelley - Out of the Closet",
+            "wins": 4
+        },
+        {
+            "losses": 11,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 82.3,
+                    "points_for": 40.7,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 89.4,
+                    "points_for": 86.8,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 90.8,
+                    "points_for": 44.9,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 69.8,
+                    "points_for": 86.6,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 86,
+                    "points_for": 68.9,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 118,
+                    "points_for": 89.4,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 78.3,
+                    "points_for": 116,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 104.9,
+                    "points_for": 75.6,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 87.1,
+                    "points_for": 69.7,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 74.3,
+                    "points_for": 73.5,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 132.9,
+                    "points_for": 72.8,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 132.8,
+                    "points_for": 89.4,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 90.3,
+                    "points_for": 68.2,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 78,
+                    "points_for": 81.3,
+                    "week": 14
+                }
+            ],
+            "owner": "Robert Simms",
+            "points_against": 1314.9,
+            "points_for": 1063.8,
+            "team_abbrev": "CSBY",
+            "team_id": 2,
+            "team_name": "Pryor? I Hardly Know Her",
+            "wins": 3
+        },
+        {
+            "losses": 7,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 85.7,
+                    "points_for": 84.4,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 59.6,
+                    "points_for": 90,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 100.9,
+                    "points_for": 83.4,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 106.7,
+                    "points_for": 86.2,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 68.9,
+                    "points_for": 86,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 100,
+                    "points_for": 93.6,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 66,
+                    "points_for": 85.6,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 82.7,
+                    "points_for": 69.6,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 76.9,
+                    "points_for": 77,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 115.7,
+                    "points_for": 107.5,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 92.8,
+                    "points_for": 93.4,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 91.1,
+                    "points_for": 117.7,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 68.2,
+                    "points_for": 90.3,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 102.5,
+                    "points_for": 99.1,
+                    "week": 14
+                }
+            ],
+            "owner": "Will Bain",
+            "points_against": 1217.7,
+            "points_for": 1263.8,
+            "team_abbrev": "BAIN",
+            "team_id": 3,
+            "team_name": "Team Edward",
+            "wins": 7
+        },
+        {
+            "losses": 6,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 76.6,
+                    "points_for": 91.4,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 102.5,
+                    "points_for": 84,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 122.8,
+                    "points_for": 77.4,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 104,
+                    "points_for": 58.7,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 80.9,
+                    "points_for": 98.1,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 99.3,
+                    "points_for": 102.4,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 111.1,
+                    "points_for": 88.5,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 69.6,
+                    "points_for": 82.7,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 76.3,
+                    "points_for": 85.4,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 73.5,
+                    "points_for": 74.3,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 128.4,
+                    "points_for": 89.7,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 136,
+                    "points_for": 56.3,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 77.3,
+                    "points_for": 117.9,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 72.7,
+                    "points_for": 99.1,
+                    "week": 14
+                }
+            ],
+            "owner": "Glen Krebs",
+            "points_against": 1331,
+            "points_for": 1205.9,
+            "team_abbrev": "REEK",
+            "team_id": 4,
+            "team_name": "Lost My  Johnson",
+            "wins": 8
+        },
+        {
+            "losses": 7,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 120.5,
+                    "points_for": 86.3,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 86.8,
+                    "points_for": 89.4,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 58.2,
+                    "points_for": 90.4,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 58.7,
+                    "points_for": 104,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 57.7,
+                    "points_for": 72.6,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 69.5,
+                    "points_for": 88.4,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 112.8,
+                    "points_for": 66.2,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 102.9,
+                    "points_for": 77.4,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 84.6,
+                    "points_for": 105.5,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 107.6,
+                    "points_for": 58.2,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 93.4,
+                    "points_for": 92.8,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 80.4,
+                    "points_for": 131.3,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 117.9,
+                    "points_for": 77.3,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 81.3,
+                    "points_for": 78,
+                    "week": 14
+                }
+            ],
+            "owner": "Tyler Maher",
+            "points_against": 1232.3,
+            "points_for": 1217.8,
+            "team_abbrev": "AKON",
+            "team_id": 5,
+            "team_name": "Maher Just Had Sex",
+            "wins": 7
+        },
+        {
+            "losses": 2,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 84.4,
+                    "points_for": 85.7,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 111.1,
+                    "points_for": 84.2,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 44.9,
+                    "points_for": 90.8,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 97.7,
+                    "points_for": 98.7,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 69.8,
+                    "points_for": 85.3,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 65.9,
+                    "points_for": 81.9,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 88.5,
+                    "points_for": 111.1,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 77.4,
+                    "points_for": 102.9,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 77,
+                    "points_for": 76.9,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 77,
+                    "points_for": 124.7,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 72.8,
+                    "points_for": 132.9,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 54.3,
+                    "points_for": 73.2,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 114.5,
+                    "points_for": 116.7,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 74,
+                    "points_for": 81.1,
+                    "week": 14
+                }
+            ],
+            "owner": "Matt M",
+            "points_against": 1109.3,
+            "points_for": 1346.1,
+            "team_abbrev": "MCM",
+            "team_id": 6,
+            "team_name": "Young Hoe's Revenge",
+            "wins": 12
+        },
+        {
+            "losses": 6,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 97.8,
+                    "points_for": 91.2,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 84,
+                    "points_for": 102.5,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 83.4,
+                    "points_for": 100.9,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 81.2,
+                    "points_for": 96.2,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 72.6,
+                    "points_for": 57.7,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 89.4,
+                    "points_for": 118,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 96.9,
+                    "points_for": 130.2,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 108.6,
+                    "points_for": 88.1,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 105.5,
+                    "points_for": 84.6,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 76.5,
+                    "points_for": 83.7,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 89.7,
+                    "points_for": 128.4,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 73.2,
+                    "points_for": 54.3,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 115.1,
+                    "points_for": 74.3,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 99.1,
+                    "points_for": 102.5,
+                    "week": 14
+                }
+            ],
+            "owner": "Joshua Seidman",
+            "points_against": 1273,
+            "points_for": 1312.6,
+            "team_abbrev": "GRNK",
+            "team_id": 7,
+            "team_name": "The Gronkfather Part II",
+            "wins": 8
+        },
+        {
+            "losses": 6,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 40.7,
+                    "points_for": 82.3,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 84.2,
+                    "points_for": 111.1,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 104.6,
+                    "points_for": 103.8,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 86.2,
+                    "points_for": 106.7,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 126.6,
+                    "points_for": 96.5,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 102.4,
+                    "points_for": 99.3,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 66.2,
+                    "points_for": 112.8,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 88.1,
+                    "points_for": 108.6,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 69.7,
+                    "points_for": 87.1,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 124.7,
+                    "points_for": 77,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 105,
+                    "points_for": 107.9,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 117.7,
+                    "points_for": 91.1,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 88.1,
+                    "points_for": 98.2,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 104.8,
+                    "points_for": 97,
+                    "week": 14
+                }
+            ],
+            "owner": "Emmett Moore",
+            "points_against": 1309,
+            "points_for": 1379.4,
+            "team_abbrev": "YAAS",
+            "team_id": 8,
+            "team_name": "We Dem Gurley Boyz",
+            "wins": 8
+        },
+        {
+            "losses": 10,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 91.2,
+                    "points_for": 97.8,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 128.9,
+                    "points_for": 94.2,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 90.4,
+                    "points_for": 58.2,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 98.7,
+                    "points_for": 97.7,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 98.1,
+                    "points_for": 80.9,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 93.6,
+                    "points_for": 100,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 116,
+                    "points_for": 78.3,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 88.7,
+                    "points_for": 97.1,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 85.4,
+                    "points_for": 76.3,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 83.7,
+                    "points_for": 76.5,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt Prescott",
+                        "team_id": 10,
+                        "team_name": "G. O. A. T.  Edition "
+                    },
+                    "points_against": 83.3,
+                    "points_for": 98.1,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 131.3,
+                    "points_for": 80.4,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 98.2,
+                    "points_for": 88.1,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 81.1,
+                    "points_for": 74,
+                    "week": 14
+                }
+            ],
+            "owner": "Will  Heinz",
+            "points_against": 1368.6,
+            "points_for": 1197.6,
+            "team_abbrev": "HEIN",
+            "team_id": 9,
+            "team_name": "Lick My  Golden Tate",
+            "wins": 4
+        },
+        {
+            "losses": 5,
+            "matchups": [
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 86.3,
+                    "points_for": 120.5,
+                    "week": 1
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 94.2,
+                    "points_for": 128.9,
+                    "week": 2
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 77.4,
+                    "points_for": 122.8,
+                    "week": 3
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 96.2,
+                    "points_for": 81.2,
+                    "week": 4
+                },
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 96.5,
+                    "points_for": 126.6,
+                    "week": 5
+                },
+                {
+                    "opponent": {
+                        "owner": "Matt M",
+                        "team_id": 6,
+                        "team_name": "Young Hoe's Revenge"
+                    },
+                    "points_against": 81.9,
+                    "points_for": 65.9,
+                    "week": 6
+                },
+                {
+                    "opponent": {
+                        "owner": "Will Bain",
+                        "team_id": 3,
+                        "team_name": "Team Edward"
+                    },
+                    "points_against": 85.6,
+                    "points_for": 66,
+                    "week": 7
+                },
+                {
+                    "opponent": {
+                        "owner": "Robert Simms",
+                        "team_id": 2,
+                        "team_name": "Pryor? I Hardly Know Her"
+                    },
+                    "points_against": 75.6,
+                    "points_for": 104.9,
+                    "week": 8
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Thisse",
+                        "team_id": 1,
+                        "team_name": "R. Kelley - Out of the Closet"
+                    },
+                    "points_against": 122.7,
+                    "points_for": 96.2,
+                    "week": 9
+                },
+                {
+                    "opponent": {
+                        "owner": "Tyler Maher",
+                        "team_id": 5,
+                        "team_name": "Maher Just Had Sex"
+                    },
+                    "points_against": 58.2,
+                    "points_for": 107.6,
+                    "week": 10
+                },
+                {
+                    "opponent": {
+                        "owner": "Will  Heinz",
+                        "team_id": 9,
+                        "team_name": "Lick My  Golden Tate"
+                    },
+                    "points_against": 98.1,
+                    "points_for": 83.3,
+                    "week": 11
+                },
+                {
+                    "opponent": {
+                        "owner": "Glen Krebs",
+                        "team_id": 4,
+                        "team_name": "Lost My  Johnson"
+                    },
+                    "points_against": 56.3,
+                    "points_for": 136,
+                    "week": 12
+                },
+                {
+                    "opponent": {
+                        "owner": "Joshua Seidman",
+                        "team_id": 7,
+                        "team_name": "The Gronkfather Part II"
+                    },
+                    "points_against": 74.3,
+                    "points_for": 115.1,
+                    "week": 13
+                },
+                {
+                    "opponent": {
+                        "owner": "Emmett Moore",
+                        "team_id": 8,
+                        "team_name": "We Dem Gurley Boyz"
+                    },
+                    "points_against": 97,
+                    "points_for": 104.8,
+                    "week": 14
+                }
+            ],
+            "owner": "Matt Prescott",
+            "points_against": 1200.3,
+            "points_for": 1459.8,
+            "team_abbrev": "\u00f0\u009f\u0090\u0090",
+            "team_id": 10,
+            "team_name": "G. O. A. T.  Edition ",
+            "wins": 9
+        }
+    ],
+    "year": 2017
+}
