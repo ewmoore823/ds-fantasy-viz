@@ -1,13 +1,16 @@
-d3.json("https://s3.us-east-2.amazonaws.com/emmettwmoore-assets/league-2015.json",
-    buildChart)
+for (i=2011; i < 2018; i++) {
+    d3.json("https://s3.us-east-2.amazonaws.com/emmettwmoore-assets/league-"+i+".json",
+        buildChart)
+}
 
 CHART_WIDTH = 960;
 CHART_HEIGHT = 800;
 CHART_MARGIN = { top: 20, right: 80, bottom: 30, left: 50 }
 
-function buildChart(data) {
-    console.log(data);
-    var svg = d3.select(".line-graph");
+function buildChart(league) {
+    console.log(league);
+    year = league.year;
+    var svg = d3.select(".graph-" + year);
     sizeSVG(svg);
     xAxis = getXAxis();
     yAxis = getYAxis();
@@ -37,7 +40,7 @@ function buildChart(data) {
         .attr("fill", "#000")
         .text("Points");
 
-    doIt(g, data.teams, xAxis, yAxis)
+    doIt(g, league.teams, xAxis, yAxis)
 }
 
 function getXAxis() {
@@ -77,6 +80,7 @@ function doIt(g, teams, xAxis, yAxis) {
     team.append("path")
         .attr("class", "line")
         .attr("d", function(d) { return line(d.matchups); })
+        .attr("stroke-width", 1.5)
         .style("stroke", function(d) { return z(d.team_id); });
     team.append("text")
         .attr("x", 3)
