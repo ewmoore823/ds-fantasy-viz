@@ -126,21 +126,27 @@ function addLegend(svg, teams, year, colorMap) {
 
                 d3.select(elemented)
                     .transition()
-                    .duration(100)
+                    .duration(300)
                     .style("opacity", 0);
 
                 d3.select(this)
+                    .attr('fakeclass', 'fakelegend')
                     .transition()
-                    .duration(100)
+                    .duration(300)
                     .style ("opacity", .2);
             } else {
                 var elemented = document.getElementById(this.id +"-line");
                 d3.select(elemented)
                     .style("display", "block")
                     .transition()
-                    .duration(100)
+                    .duration(300)
                     .style("opacity",1);
-            }
+
+                d3.select(this)
+                    .attr('fakeclass','legend')
+                    .transition()
+                    .duration(300)
+                    .style ("opacity", 1);}
         });
 
         var lastvalues = [];
