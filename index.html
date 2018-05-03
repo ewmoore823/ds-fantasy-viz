@@ -16,10 +16,24 @@
         stroke: steelblue;
         stroke-width: 1.5px;
       }
+      div.tooltip {
+        position: absolute;
+        text-align: center;
+        width: 200px;
+        height: 40px;
+        padding: 2px;
+        font: 12px Arial;
+        background: lightsteelblue;
+        border: 0px;
+        border-radius: 8px;
+        pointer-events: none;
+      }
     </style>
   </head>
   <body>
     <h1>BenDover-Sherborn Fantasy Football</h1>
+    <h3>Every Score Ever</h3>
+    <svg class="all-scores"></svg>
     <h3>2017 Season</h3>
     <svg class="graph-2017"></svg>
     <h3>2016 Season</h3>
