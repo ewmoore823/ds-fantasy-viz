@@ -1,1 +1,1 @@
-web: gunicorn ebase.wsgi
+web: gunicorn ffballstats.wsgi
