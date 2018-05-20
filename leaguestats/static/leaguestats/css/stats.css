@@ -1,29 +1,50 @@
 .body-wrapper {
   font-family: Verdana, sans-serif;
+  margin: 0px;
 }
-ul {
+
+.title-header {
+  font-family: Verdana, sans-serif;
+  margin: 0.5em !important;
+  text-align: center !important;
+}
+
+ul.page-header {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  text-align: center;
+  height: 4em;
 }
 
-li {
+ul.page-header > li {
   font-size: 16px;
   text-color: #FFF;
   float: left;
-  padding: 20px 50px 20px 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 33.333333%;
   background-color: #333;
 }
-li > a {
+ul.page-header > li > a {
   display: block;
   color: #FFF;
   text-decoration: none;
 }
 
-li:hover {
+ul.page-header > li:hover {
   background-color: #111;
 }
 
-li.active {
+ul.page-header > li.active {
   background-color: #B00000;
+}
+
+.hide {
+  display: none !important;
+}
+
+.stats-body {
+  display: block;
+  padding: 30px;
 }

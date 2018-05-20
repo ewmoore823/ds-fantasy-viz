@@ -9,13 +9,21 @@
       League = {{ league|safe }};
       console.log(League);
     </script>
+    <script type="text/javascript" src="{% static "leaguestats/js/stats.js" %}">
+    </script>
+    <link rel="stylesheet" type="text/css" href="{% static "leaguestats/css/stats.css" %}">
     <link rel="stylesheet" type="text/css" href="{% static "leaguestats/css/stats.css" %}">
   </head>
   <body class="body-wrapper">
-    <ul>
-      <li class="active"><a id="league-link" href="#">All Time Stats</a></li>
-      <li><a id="seasons-link" href="#">Season Stats</a></li>
-      <li><a id="teams-link" href="#">Team Stats</a></li>
+    <h1 class="title-header">{{league.name}} Team Rankings</h1>
+    <ul class="page-header">
+      <li id="league-link" class="active"><a href="#">All Time Stats</a></li>
+      <li id="seasons-link"><a href="#">Season Stats</a></li>
+      <li id="teams-link"><a href="#">Team Stats</a></li>
     </ul>
+
+    <div id="league-section" class="stats-body">LEAGUE</div>
+    <div id="seasons-section" class="stats-body hide">SEASONS</div>
+    <div id="teams-section" class="stats-body hide">TEAMS</div>
   </body>
 </html>

@@ -35,6 +35,7 @@ def league_stats(request, league_id, start_year, end_year):
     all_time = _get_all_time_stats(seasons)
     context = {
         'league': {
+            'name': seasons[-1]['league_name'],
             'seasons': seasons,
             'allTime': all_time
         }
@@ -143,6 +144,7 @@ def parse_team(team):
 def _parse_season(league_id, year):
     raw_season = League(league_id, year)
     return {
+        "league_name": raw_season.settings.name,
         "league_id": raw_season.league_id,
         "year": raw_season.year,
         "teams": [parse_team(t) for t in raw_season.teams]

@@ -5,13 +5,24 @@ $(document).ready(function() {
 });
 
 function getLeague() {
-    console.log('getLeagues');
+    switchSection('league');
 }
 
 function getSeasonStats() {
-    console.log('getSeasonStats');
+    switchSection('seasons');
 }
 
 function getTeams() {
-    console.log('getTeams');
+    switchSection('teams');
+}
+
+function switchSection(enabledSection) {
+    otherSections = new Set(['league', 'seasons', 'teams']);
+    otherSections.delete(enabledSection);
+    otherSections.forEach(function(section) {
+        $('#' + section + '-link').removeClass('active');
+        $('#' + section + '-section').addClass('hide');
+    });
+    $('#' + enabledSection + '-link').addClass('active');
+    $('#' + enabledSection + '-section').removeClass('hide');
 }
