@@ -1,0 +1,29 @@
+.body-wrapper {
+  font-family: Verdana, sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  font-size: 16px;
+  text-color: #FFF;
+  float: left;
+  padding: 20px 50px 20px 50px;
+  background-color: #333;
+}
+li > a {
+  display: block;
+  color: #FFF;
+  text-decoration: none;
+}
+
+li:hover {
+  background-color: #111;
+}
+
+li.active {
+  background-color: #B00000;
+}

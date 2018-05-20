@@ -1,13 +1,21 @@
 {% load static %}
 <html>
   <head>
+    <script
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
     <script type="text/javascript">
       League = {{ league|safe }};
       console.log(League);
     </script>
-    <script type="text/javascript" src="{% static "leaguestats/test.js" %}">
-    </script>
+    <link rel="stylesheet" type="text/css" href="{% static "leaguestats/css/stats.css" %}">
   </head>
-  <body>
+  <body class="body-wrapper">
+    <ul>
+      <li class="active"><a id="league-link" href="#">All Time Stats</a></li>
+      <li><a id="seasons-link" href="#">Season Stats</a></li>
+      <li><a id="teams-link" href="#">Team Stats</a></li>
+    </ul>
   </body>
 </html>
