@@ -11,7 +11,7 @@ function main() {
 
 function buildVisualization(league) {
     year = league.year;
-    var svg = d3.select(".graph-" + year);
+    var svg = d3.select("#graph-" + year);
     sizeSVG(svg);
     xAxis = getXAxis();
     yAxis = getYAxis();
