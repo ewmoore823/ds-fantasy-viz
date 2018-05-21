@@ -1,3 +1,13 @@
+.axis--x path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
 .body-wrapper {
   font-family: Verdana, sans-serif;
   margin: 0px;
@@ -40,11 +50,12 @@ ul.page-header > li.active {
   background-color: #B00000;
 }
 
-.hide {
-  display: none !important;
-}
-
 .stats-body {
   display: block;
   padding: 30px;
+}
+
+.hide {
+  visibility: hidden !important;
+  padding: 0px !important;
 }

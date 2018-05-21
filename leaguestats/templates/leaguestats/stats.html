@@ -1,17 +1,16 @@
 {% load static %}
 <html>
   <head>
-    <script
-        src="https://code.jquery.com/jquery-3.3.1.min.js"
-        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-        crossorigin="anonymous"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" charset="utf-8"></script>
     <script type="text/javascript">
       League = {{ league|safe }};
       console.log(League);
     </script>
     <script type="text/javascript" src="{% static "leaguestats/js/stats.js" %}">
     </script>
-    <link rel="stylesheet" type="text/css" href="{% static "leaguestats/css/stats.css" %}">
+    <script type="text/javascript" src="{% static "leaguestats/js/d3.js" %}">
+    </script>
     <link rel="stylesheet" type="text/css" href="{% static "leaguestats/css/stats.css" %}">
   </head>
   <body class="body-wrapper">
@@ -22,8 +21,15 @@
       <li id="teams-link"><a href="#">Team Stats</a></li>
     </ul>
 
-    <div id="league-section" class="stats-body">LEAGUE</div>
-    <div id="seasons-section" class="stats-body hide">SEASONS</div>
-    <div id="teams-section" class="stats-body hide">TEAMS</div>
+    <div id="league-section" class="stats-body">
+    </div>
+    <div id="seasons-section" class="stats-body hide">
+      {% for season in league.seasons reversed %}
+        <h5>{{season.year}} Season</h5>
+        <svg class="graph-{{season.year}}"></svg>
+      {% endfor %}
+    </div>
+    <div id="teams-section" class="stats-body hide">
+    </div>
   </body>
 </html>
