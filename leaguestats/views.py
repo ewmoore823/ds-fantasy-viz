@@ -44,11 +44,13 @@ def league_stats(request, league_id, start_year, end_year):
 
 
 def _get_all_time_stats(seasons):
-    weeks = _get_weeks(seasons)
+    weeks, best_weeks, worst_weeks = _get_weeks(seasons)
     teams = _get_teams(seasons)
     matchups = _get_matchups(seasons)
     return {
         'weeks': weeks,
+        'best_weeks': best_weeks,
+        'worst_weeks': worst_weeks,
         'teams': teams,
         'matchups': matchups
     }
@@ -111,7 +113,10 @@ def _get_weeks(seasons):
                         'week': week,
                     }
                 )
-    return all_weeks
+    all_weeks = sorted(all_weeks, key=lambda x: x['score'])
+    best_weeks = all_weeks[-20:]
+    worst_weeks = all_weeks[:20]
+    return all_weeks, best_weeks, worst_weeks
 
 
 def _parse_season_matchups(schedule, scores):

@@ -25,6 +25,55 @@
 
     <div id="league-section" class="stats-body">
       <svg id="all-scores"></svg>
+      <div class="best-weeks-section">
+        <div class="leaderboard-table border-right">
+          <h3 class="leaderboard">Best Weeks of All Time</h3>
+          <table>
+            <tr>
+              <th>Rank</th>
+              <th>Owner</th>
+              <th>Team</th>
+              <th>Year</th>
+              <th>Week</th>
+              <th>Score</th>
+            </tr>
+            {% for week in league.allTime.best_weeks reversed %}
+              <tr>
+                <td>{{ forloop.counter }}</td>
+                <td>{{ week.owner }}</td>
+                <td>{{ week.team_name }}</td>
+                <td>{{ week.year }}</td>
+                <td>{{ week.week }}</td>
+                <td>{{ week.score }}</td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+        <div class="leaderboard-table">
+          <h3 class="leaderboard">Worst Weeks of All Time</h3>
+          <table>
+            <tr>
+              <th>Rank</th>
+              <th>Owner</th>
+              <th>Team</th>
+              <th>Year</th>
+              <th>Week</th>
+              <th>Score</th>
+            </tr>
+            {% for week in league.allTime.worst_weeks %}
+              <tr>
+                <td>{{ forloop.counter }}</td>
+                <td>{{ week.owner }}</td>
+                <td>{{ week.team_name }}</td>
+                <td>{{ week.year }}</td>
+                <td>{{ week.week }}</td>
+                <td>{{ week.score }}</td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+      </div>
+
     </div>
     <div id="seasons-section" class="stats-body hide">
       {% for season in league.seasons reversed %}
