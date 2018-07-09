@@ -1,15 +1,17 @@
-for (i=2011; i < 2018; i++) {
-    d3.json("https://s3.us-east-2.amazonaws.com/emmettwmoore-assets/league-"+i+".json",
-        buildVisualization)
-}
-
 CHART_WIDTH = 960;
 CHART_HEIGHT = 640;
 CHART_MARGIN = { top: 20, right: 170, bottom: 30, left: 50 }
 
+function main() {
+    // League set in stats.html
+    for (var i=0; i < League.seasons.length; i++) {
+        buildVisualization(League.seasons[i]);
+    }
+}
+
 function buildVisualization(league) {
     year = league.year;
-    var svg = d3.select(".graph-" + year);
+    var svg = d3.select("#graph-" + year);
     sizeSVG(svg);
     xAxis = getXAxis();
     yAxis = getYAxis();
@@ -94,8 +96,7 @@ function buildChart(g, teams, year, colorMap, xAxis, yAxis) {
 
 function addLegend(svg, teams, year, colorMap) {
     players = [];
-    console.log(teams);
-    for (i=0; i< teams.length; i++) {
+    for (var i=0; i< teams.length; i++) {
         player = {
             id: year + '-' + teams[i].team_id,
             team_id: teams[i].team_id,
@@ -104,7 +105,6 @@ function addLegend(svg, teams, year, colorMap) {
         }
         players.push(player);
     }
-    console.log(players);
 
     var legend = svg.selectAll('.legend')
         .data(players);
@@ -156,7 +156,6 @@ function addLegend(svg, teams, year, colorMap) {
         legendEnter.append('circle')
             .attr('cx', CHART_WIDTH +100)
             .attr('cy', function(d){
-                console.log(d);
                 return CHART_HEIGHT - 150 - (25 * d.team_id);
             })
             .attr('r', 7)
@@ -174,3 +173,7 @@ function addLegend(svg, teams, year, colorMap) {
             })
             .text(function(d){ return d.owner; });
 }
+
+$(document).ready(function() {
+    main();
+});

@@ -1,0 +1,16 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <form action="/get_league_page" method="post">
+      {% csrf_token %}
+      <input name="league_id" type="number" type="number" min="1" id="league_id"/>
+      <label for="league_id">League ID</label><br />
+      <input name="start_year" type="number" type="number" min="2000" min="2017" id="start_year"/>
+      <label for="start_year">Start Year</label><br />
+      <input name="end_year" type="number" type="number" min="2000" max="2017" id="end_year"/>
+      <label for="end_year">End Year</label><br />
+      <input type="submit" value="Submit" />
+    </form>
+  </body>
+</html>
