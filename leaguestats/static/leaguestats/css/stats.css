@@ -74,7 +74,7 @@ ul.page-header > li.active {
   height: 0px !important;
 }
 
-div.best-weeks-section {
+div.two-tables {
   display: flex;
 }
 
@@ -82,8 +82,13 @@ div.best-weeks-section {
   flex: 1;
 }
 
-td {
+table > tbody > tr > td {
   padding: 0px 15px 0px 15px;
+  font-size: 12px;
+}
+
+table > tbody > tr > th {
+  font-size: 14px;
 }
 
 .border-right {

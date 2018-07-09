@@ -1,7 +1,7 @@
 {% load static %}
 <html>
   <head>
-    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <!--script src="https://d3js.org/d3.v4.min.js"></script-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" charset="utf-8"></script>
     <script type="text/javascript">
       League = {{ league|safe }};
@@ -9,79 +9,143 @@
     </script>
     <script type="text/javascript" src="{% static "leaguestats/js/tabs.js" %}">
     </script>
-    <script type="text/javascript" src="{% static "leaguestats/js/league-stats.js" %}">
+    <!--script type="text/javascript" src="{% static "leaguestats/js/league-stats.js" %}">
     </script>
     <script type="text/javascript" src="{% static "leaguestats/js/season-stats.js" %}">
-    </script>
+    </script-->
     <link rel="stylesheet" type="text/css" href="{% static "leaguestats/css/stats.css" %}">
   </head>
   <body class="body-wrapper">
-    <h1 class="title-header">{{league.name}} Team Rankings</h1>
+    <h1 class="title-header">{{league.name}} Power Rankings</h1>
     <ul class="page-header">
-      <li id="league-link" class="active"><a href="#">All Time Stats</a></li>
-      <li id="seasons-link"><a href="#">Season Stats</a></li>
-      <li id="teams-link"><a href="#">Team Stats</a></li>
+      <li id="seasons-link"><a href="#">Season Rankings</a></li>
+      <li id="league-link" class="active"><a href="#">Week Rankings</a></li>
+      <li id="teams-link"><a href="#">Owner Rankings</a></li>
     </ul>
 
     <div id="league-section" class="stats-body">
-      <svg id="all-scores"></svg>
-      <div class="best-weeks-section">
-        <div class="leaderboard-table border-right">
-          <h3 class="leaderboard">Best Weeks of All Time</h3>
-          <table>
-            <tr>
-              <th>Rank</th>
-              <th>Owner</th>
-              <th>Team</th>
-              <th>Year</th>
-              <th>Week</th>
-              <th>Score</th>
-            </tr>
-            {% for week in league.allTime.best_weeks reversed %}
+      <!--svg id="all-scores"></svg-->
+        <div class=two-tables>
+          <div class="leaderboard-table border-right">
+            <h3 class="leaderboard">Best Weeks of All Time</h3>
+            <table>
               <tr>
-                <td>{{ forloop.counter }}</td>
-                <td>{{ week.owner }}</td>
-                <td>{{ week.team_name }}</td>
-                <td>{{ week.year }}</td>
-                <td>{{ week.week }}</td>
-                <td>{{ week.score }}</td>
+                <th>Rank</th>
+                <th>Owner</th>
+                <th>Team</th>
+                <th>Year</th>
+                <th>Week</th>
+                <th>Score</th>
               </tr>
-            {% endfor %}
-          </table>
-        </div>
-        <div class="leaderboard-table">
-          <h3 class="leaderboard">Worst Weeks of All Time</h3>
-          <table>
-            <tr>
-              <th>Rank</th>
-              <th>Owner</th>
-              <th>Team</th>
-              <th>Year</th>
-              <th>Week</th>
-              <th>Score</th>
-            </tr>
-            {% for week in league.allTime.worst_weeks %}
+              {% for week in league.allTime.best_weeks reversed %}
+                <tr>
+                  <td>{{ forloop.counter }}</td>
+                  <td>{{ week.owner }}</td>
+                  <td>{{ week.team_name }}</td>
+                  <td>{{ week.year }}</td>
+                  <td>{{ week.week }}</td>
+                  <td>{{ week.score }}</td>
+                </tr>
+              {% endfor %}
+            </table>
+          </div>
+          <div class="leaderboard-table">
+            <h3 class="leaderboard">Worst Weeks of All Time</h3>
+            <table>
               <tr>
-                <td>{{ forloop.counter }}</td>
-                <td>{{ week.owner }}</td>
-                <td>{{ week.team_name }}</td>
-                <td>{{ week.year }}</td>
-                <td>{{ week.week }}</td>
-                <td>{{ week.score }}</td>
+                <th>Rank</th>
+                <th>Owner</th>
+                <th>Team</th>
+                <th>Year</th>
+                <th>Week</th>
+                <th>Score</th>
               </tr>
-            {% endfor %}
-          </table>
+              {% for week in league.allTime.worst_weeks %}
+                <tr>
+                  <td>{{ forloop.counter }}</td>
+                  <td>{{ week.owner }}</td>
+                  <td>{{ week.team_name }}</td>
+                  <td>{{ week.year }}</td>
+                  <td>{{ week.week }}</td>
+                  <td>{{ week.score }}</td>
+                </tr>
+              {% endfor %}
+            </table>
+          </div>
         </div>
       </div>
 
     </div>
     <div id="seasons-section" class="stats-body hide">
-      {% for season in league.seasons reversed %}
-        <h5>{{season.year}} Season</h5>
-        <svg id="graph-{{season.year}}"></svg>
-      {% endfor %}
+      <div class="two-tables">
+        <div class="leaderboard-table border-right">
+          <h3 class="leaderboard">Best Seasons of All Time</h3>
+          <table>
+            <tr>
+              <th>Rank</th>
+              <th>Owner</th>
+              <th>Team</th>
+              <th>Year</th>
+              <th>Points per Game</th>
+            </tr>
+            {% for season in league.allTime.best_seasons reversed %}
+              <tr>
+                <td>{{ forloop.counter }}</td>
+                <td>{{ season.owner }}</td>
+                <td>{{ season.team_name }}</td>
+                <td>{{ season.year }}</td>
+                <td>{{ season.ppg }}</td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+        <div class="leaderboard-table">
+          <h3 class="leaderboard">Worst Seasons of All Time</h3>
+          <table>
+            <tr>
+              <th>Rank</th>
+              <th>Owner</th>
+              <th>Team</th>
+              <th>Year</th>
+              <th>Points Per Game</th>
+            </tr>
+            {% for season in league.allTime.worst_seasons %}
+              <tr>
+                <td>{{ forloop.counter }}</td>
+                <td>{{ season.owner }}</td>
+                <td>{{ season.team_name }}</td>
+                <td>{{ season.year }}</td>
+                <td>{{ season.ppg }}</td>
+              </tr>
+            {% endfor %}
+          </table>
+        </div>
+      </div>
     </div>
     <div id="teams-section" class="stats-body hide">
+      <div class="leaderboard-table">
+        <h3 class="leaderboard">Ownership Group Power Rankings</h3>
+        <table>
+          <tr>
+            <th>Rank</th>
+            <th>Owner</th>
+            <th>Average Points Per Game</th>
+            {% for year in league.seasonYears %}
+              <th>{{ year }}</th>
+            {% endfor %}
+          </tr>
+          {% for team in league.allTime.team_rankings %}
+            <tr>
+              <td>{{ forloop.counter }}</td>
+              <td>{{ team.owner }}</td>
+              <td>{{ team.avg_ppg }}</td>
+              {% for season in team.seasons %}
+                <td>{{ season }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </table>
+      </div>
     </div>
   </body>
 </html>
