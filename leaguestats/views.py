@@ -92,7 +92,7 @@ def _get_team_rankings_data(seasons, start_year, end_year):
             if str(year) in franchise:
                 team['seasons'].append(franchise[str(year)])
             else:
-                team['seasons'].append("N/A")
+                team['seasons'].append("--")
         teams.append(team)
 
     return sorted(teams, key=lambda x: -x['avg_ppg'])
